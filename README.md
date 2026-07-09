@@ -1,9 +1,8 @@
 ## Hi there, I'm Morsal Nory 👋
 
- - Data Science student at the University of Calgary
- - Following a passion of machine learning, data analytics and building data-driven solutions
+ #### Data Science student at the University of Calgary
+ #### Following a passion of machine learning, data analytics and building data-driven solutions
 
-Here are some ideas to get you started:
 
 ##  Skills
 
