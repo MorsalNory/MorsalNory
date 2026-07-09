@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there, I'm Morsal Nory 👋
 
-<!--
-**MorsalNory/MorsalNory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - Data Science student at the University of Calgary
+ - Following a passion of machine learning, data analytics and building data-driven solutions
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Skills
+
+**Languages:** Python, SQL, Java, R
+
+**Data Science:** Pandas, NumPy, Scikit-learn, Machine Learning, Data Visualization, Statistical Analysis
+
+**Tools:** Tableau, Git, GitHub, Jupyter Notebook, Docker, Azure, Hadoop, PySpark
+
+##  Currently Learning
+
+- Deep Learning
+- Data Engineering
+- Cloud Technologies
